@@ -1,10 +1,16 @@
 # HMIR
 HugeMate Intellegant robot
+
 1.版权信息：HugeMate为Hugesoft旗下HugeCode项目之一，版权：张呈宇©2020
+
 2.借鉴信息：
+
 freepythongame，5个小游戏，官网：http://www.grantjenks.com/
+
 pypypy，两个画图，网站：https://www.cnblogs.com/pypypy/p/12183255.html
+
 井字棋，网站https://blog.csdn.net/weixin_34102807/article/details/85907838
+
 guliang21，扫雷，网站https://github.com/guliang21/pygame/tree/master/MineSweeping
 
 以上网站都声明开源。
