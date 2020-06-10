@@ -36,5 +36,5 @@ All of these sites claim to be open source.
 
 HugeMate is not only an intelligent conversation robot, but also a notepad, timer and other tools master! It is also thirteen games, drawing pictures, jokes and other entertainment! If you have any Suggestions, please contact QQ: 908137590. HugeMate team sincerely invites you to join us!
 
-HugeMate development team (Python) hiring! Not only the intelligent robot, it is also notepad, timer and other tools master! It is also used for turtle drawings, jokes, etc. If you have any Suggestions or want to join the team, please chat privately. HugeMate team sincerely invites you to join!
+HugeMate development team (Python) hiring! Not only the intelligent robot, it is also notepad, timer and other tools master! It is also used for turtle drawings, jokes, etc. If you have any Suggestions or want to join the team, please chat in QQ:908137590. HugeMate team sincerely invites you to join!
 
